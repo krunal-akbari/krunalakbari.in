@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blogtitle</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;#this is simple test&lt;/p&gt;</description>
+      <content>&lt;p&gt;#this is simple test&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Intro</title>
+      <link>//localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/posts/welcome/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;hello there i am Krunal Akbari
+I am a developer and working on Ui/Ux and i would like to get my jurny with you
+of course my website is just quick fix and also just doning it job
+which should be the goal of the website and  i will give you inside of my jurny&lt;/p&gt;
+&lt;h2 id=&#34;lets-start-with-basic&#34;&gt;let&amp;rsquo;s start with basic&lt;/h2&gt;
+&lt;p&gt;so i did not think about any topic so i will be posting with content soon and probabaly rework on website too&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;/h1&gt;
+&lt;p&gt;hello there i am Krunal Akbari
+I am a developer and working on Ui/Ux and i would like to get my jurny with you
+of course my website is just quick fix and also just doning it job
+which should be the goal of the website and  i will give you inside of my jurny&lt;/p&gt;
+&lt;h2 id=&#34;lets-start-with-basic&#34;&gt;let&amp;rsquo;s start with basic&lt;/h2&gt;
+&lt;p&gt;so i did not think about any topic so i will be posting with content soon and probabaly rework on website too&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>//localhost:1313/about/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/test/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
